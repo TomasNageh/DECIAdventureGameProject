@@ -37,9 +37,6 @@ In this game, you find yourself in an open field with various locations to explo
 
 Contributions are welcome! If you have any ideas, bug reports, or feature requests, please open an issue on the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
